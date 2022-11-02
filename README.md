@@ -37,9 +37,9 @@ A Simple Java task management system to schedule tasks weekly along with a pomod
 <p align="center">Fig.1 - Username , password ,Database name</p>
 
 
-### Working
 
-https://user-images.githubusercontent.com/76642252/199470220-cde8d01c-8665-4694-8cc2-1ae9258855b5.mp4
+### Working
+Uploading Daily Task Scheduler.mp4…
 
 ### More Reference
 
