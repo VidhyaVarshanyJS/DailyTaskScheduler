@@ -1,5 +1,4 @@
-# Daily Task 
-Scheduler
+# Daily Task Scheduler
 # CryptoExchange
 
 ## About
