@@ -31,8 +31,11 @@ A Simple Java task management system to schedule tasks weekly along with a pomod
 
 - Create database of name `test_days_database` in myPhPAdmin after starting the Apache and the MySql from Xampp Server 
 - Give the correct username and password inside the `Prerequisite.java` file .Database Tables will be created automatically
-![image](https://user-images.githubusercontent.com/76642252/199481601-35bf4447-4725-461b-b961-17137540539e.png)
-<figcaption> Username , password & Database name</figcaption>
+<figure>
+  <img src="https://user-images.githubusercontent.com/76642252/199481601-35bf4447-4725-461b-b961-17137540539e.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Username , password ,Database name.</figcaption>
+</figure>
+
 
 ### Working
 
