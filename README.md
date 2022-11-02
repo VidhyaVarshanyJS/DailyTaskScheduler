@@ -34,8 +34,9 @@ A Simple Java task management system to schedule tasks weekly along with a pomod
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/76642252/199481601-35bf4447-4725-461b-b961-17137540539e.png" alt="Trulli" height="80">
- Fig.1 - Username , password ,Database name
+
 </p>
+<p align="center">Fig.1 - Username , password ,Database name</p>
 
 
 ### Working
