@@ -3,8 +3,7 @@
 
 ## About
 
-A Simple Java task management system to schedule tasks weekly along with a pomodoro timer  
-
+A Simple Java task management system to schedule tasks weekly along with a pomodoro timer that effectively manages daily keeps work track on time. It is built with Java Swings for UI and entire code is written in Java.This Application is basically a GUI version of TODIST with some additional features.It has CRUD operations which are done using SQL database .A Pomodoro timer also included in this application to enhance the productivity to track the time on a specific task by the user.This Task Scheduler schedules the task according to the  the week days in accordance with the system date and time . 
 
 **Keywords:**  java , java-swing , MySQL
 
